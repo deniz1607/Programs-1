@@ -1,0 +1,15 @@
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\bin\Debug\net9.0\Program2.exe
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\bin\Debug\net9.0\Program2.deps.json
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\bin\Debug\net9.0\Program2.runtimeconfig.json
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\bin\Debug\net9.0\Program2.dll
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\bin\Debug\net9.0\Program2.pdb
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\obj\Debug\net9.0\Program2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\obj\Debug\net9.0\Program2.AssemblyInfoInputs.cache
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\obj\Debug\net9.0\Program2.AssemblyInfo.cs
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\obj\Debug\net9.0\Program2.csproj.CoreCompileInputs.cache
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\obj\Debug\net9.0\Program2.sourcelink.json
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\obj\Debug\net9.0\Program2.dll
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\obj\Debug\net9.0\refint\Program2.dll
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\obj\Debug\net9.0\Program2.pdb
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\obj\Debug\net9.0\Program2.genruntimeconfig.cache
+c:\Users\Student.WS-001\Documents\GitHub\Programs\Program2\obj\Debug\net9.0\ref\Program2.dll
